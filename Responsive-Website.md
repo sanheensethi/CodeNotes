@@ -53,3 +53,10 @@ screen ke size ke hisab se content ko change kre
 - responsive typography honi chahiye
 - Mobile First Apporach
 - Flexible Images and Media
+
+# calc() function
+```css
+.content {
+    height: calc(100% - 100px) // space after and before sub sign required.
+}
+```
